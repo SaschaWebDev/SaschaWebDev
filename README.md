@@ -12,6 +12,6 @@ Sascha Majewsky {
 
 - 🌐 Web: [saschamajewsky.de](https://saschamajewsky.de)
 - ✉️ E-Mail: [sascha.majewsky@pm.me](mailto:sascha.majewsky@pm.me)
-- 🧑‍💼 LinkedIn: [Sascha Majewsky](https://linkedin.com/in/saschamajewsky)
+- 💼 LinkedIn: [Sascha Majewsky](https://linkedin.com/in/saschamajewsky)
 - 👔 XING: [Sascha Majewsky](https://www.xing.com/profile/Sascha_Majewsky5/)
 - 📝 Curriculum Vitae: [Sascha CV](https://saschamajewsky.de/resume_sascha.pdf)
