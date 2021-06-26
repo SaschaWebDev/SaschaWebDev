@@ -23,10 +23,10 @@
 
 ```json
 Sascha Majewsky {
-  "passion": "Web Development",
+  "passion": "Full Stack Web Development",
   "country": "Germany",
   "city": "Hamburg",
-  "stack": ["React.js", "TypeScript", "JavaScript", "Node.js", "Tailwind CSS" "PostgreSQL", "MongoDB"],
+  "stack": ["React.js", "Next.js", "TypeScript", "JavaScript", "Node.js", "Tailwind CSS" "PostgreSQL", "MongoDB"],
   "interest": ["Clean Code", "Web Apps", "Investments"]
 }
 ```
