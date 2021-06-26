@@ -22,12 +22,13 @@
 <b>😺 About Me</b>
 
 ```json
-Sascha Majewsky {
-  "passion": "Full Stack Web Development",
-  "country": "Germany",
-  "city": "Hamburg",
-  "stack": ["React.js", "Next.js", "TypeScript", "JavaScript", "Node.js", "Tailwind CSS" "PostgreSQL", "MongoDB"],
-  "interest": ["Clean Code", "Web Apps", "Investments"]
+{ "Sascha Majewsky": [
+	{"passion": "Full Stack Web Development"},
+	{"country": "Germany"},
+	{"city": "Hamburg"},
+	{"stack": ["React.js", "Next.js", "TypeScript", "JavaScript", "Node.js", "Tailwind CSS", "PostgreSQL", "MongoDB"]},
+	{"interest": ["Clean Code", "Web Apps", "Investments"]}
+  ]
 }
 ```
 
