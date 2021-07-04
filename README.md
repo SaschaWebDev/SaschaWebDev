@@ -23,11 +23,11 @@
 
 ```json
 { "Sascha Majewsky": [
-	{"passion": "Full Stack Web Development"},
-	{"country": "Germany"},
-	{"city": "Hamburg"},
-	{"stack": ["React.js", "Next.js", "TypeScript", "JavaScript", "Node.js", "Tailwind CSS", "PostgreSQL", "MongoDB"]},
-	{"interest": ["Clean Code", "Web Apps", "Investments"]}
+	{ "passion": "Full Stack Web Development" },
+	{ "country": "Germany" },
+	{ "city": "Hamburg" },
+	{ "stack": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "Node.js", "PostgreSQL", "MongoDB"] },
+	{ "interest": ["Clean Code", "Web Apps", "Investments"] }
   ]
 }
 ```
@@ -46,4 +46,4 @@
 
 <b>🤖 Favorite Technologies</b>
 
-[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/SaschaWebDev?tab=repositories&q=react&type=&language=) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/SaschaWebDev?tab=repositories&q=typescript&type=&language=) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/SaschaWebDev?tab=repositories&q=&type=&language=javascript) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/SaschaWebDev?tab=repositories&q=node&type=&language=) [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwindcss-06b6d4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06b6d4)](https://github.com/SaschaWebDev?tab=repositories&q=tailwindcss&type=&language=) <!--[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://github.com/SaschaWebDev?tab=repositories&q=graphql&type=&language=)--> [![HTML5 Badge](https://img.shields.io/badge/-HTML5-e44d26?style=for-the-badge&labelColor=black&logo=html5&logoColor=e44d26)](https://github.com/SaschaWebDev?tab=repositories&q=html&type=&language=) [![CSS3 Badge](https://img.shields.io/badge/-CSS3-264de4?style=for-the-badge&labelColor=black&logo=css3&logoColor=264de4)](https://github.com/SaschaWebDev?tab=repositories&q=css&type=&language=)
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](https://github.com/SaschaWebDev?tab=repositories&q=&type=&language=javascript) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](https://github.com/SaschaWebDev?tab=repositories&q=typescript&type=&language=) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](https://github.com/SaschaWebDev?tab=repositories&q=react&type=&language=) [![Next Badge](https://img.shields.io/badge/-Nextjs-white?style=for-the-badge&labelColor=black&logo=next.js&logoColor=white)](https://github.com/SaschaWebDev?tab=repositories&q=next&type=&language=) [![Tailwind CSS Badge](https://img.shields.io/badge/-Tailwindcss-06b6d4?style=for-the-badge&labelColor=black&logo=tailwindcss&logoColor=06b6d4)](https://github.com/SaschaWebDev?tab=repositories&q=tailwindcss&type=&language=) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](https://github.com/SaschaWebDev?tab=repositories&q=node&type=&language=)  <!--[![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](https://github.com/SaschaWebDev?tab=repositories&q=graphql&type=&language=)-->
