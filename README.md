@@ -26,7 +26,7 @@
 	{ "passion": "Full Stack Web Development" },
 	{ "country": "Germany" },
 	{ "city": "Hamburg" },
-	{ "stack": ["JavaScript", "TypeScript", "React.js", "Next.js", "Tailwind CSS", "Node.js", "PostgreSQL", "MongoDB"] },
+	{ "stack": ["TypeScript", "JavaScript", "React.js", "Next.js", "Tailwind CSS", "Node.js", "PostgreSQL", "MongoDB"] },
 	{ "interest": ["Clean Code", "Web Apps", "Investments"] }
   ]
 }
