@@ -15,7 +15,7 @@
 
 ## 🚀 Current Projects
 
-- ✂️ **[StreamDeckGIFSplitter](https://gif.saschaweb.dev)** - Your StreamDeck deserves a beautiful animated wallpaper
+- ✂️ **[StreamDeckGIFSplitter](https://gif.saschaweb.dev)** - Your Stream Deck deserves a beautiful animated wallpaper
 
 ## 📫 Contact Me
 
