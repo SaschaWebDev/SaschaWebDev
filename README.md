@@ -16,6 +16,7 @@
 ## 🚀 Current Projects
 
 - ✂️ **[StreamDeckGIFSplitter](https://gif.saschaweb.dev)** - Your Stream Deck deserves a beautiful animated wallpaper
+- 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 ## 📫 Contact Me
 
