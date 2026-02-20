@@ -17,6 +17,7 @@
 
 - ✂️ **[StreamDeckGIFSplitter](https://gif.saschaweb.dev)** - Your Stream Deck deserves a beautiful animated wallpaper
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
+- 🕊️ **Notefade** - Share secret notes that self-destruct. Zero-knowledge, one-time read, no content stored on servers. 
 
 ## 📫 Contact Me
 
