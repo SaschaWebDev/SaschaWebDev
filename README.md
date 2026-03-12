@@ -17,7 +17,7 @@
 
 - ✂️ **[StreamDeckGIFSplitter](https://streamdeckgif.com)** - Your Stream Deck deserves a beautiful animated wallpaper
 - 🕊️ **[Notefade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
-- 🔒 **Yapgone](https://yapgone.com** - Speak freely, then it’s gone: anonymous end-to-end encrypted chat with zero server knowledge and no message storage
+- 🔒 **Yapgone](https://yapgone.com)** - Speak freely, then it’s gone: anonymous end-to-end encrypted chat with zero server knowledge and no message storage
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 ## 📫 Contact Me
