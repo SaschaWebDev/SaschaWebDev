@@ -19,6 +19,7 @@
 - 🕊️ **[Notefade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
 - 🔒 **[Yapgone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
 - ⚡ **FlashRepeat** - intelligent flashcards with spaced repetition — done right
+-  **LaneFly** - 
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 ## 📫 Contact Me
