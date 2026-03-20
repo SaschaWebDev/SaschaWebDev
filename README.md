@@ -24,4 +24,4 @@
 
 ## 📫 Contact Me
 
-##### [🌐 saschamajewsky.de](https://saschamajewsky.de) · [👔 LinkedIn](https://linkedin.com/in/saschamajewsky) · [💼 XING](https://www.xing.com/profile/Sascha_Majewsky5) 📍 Hamburg
+##### [🌐 saschamajewsky.de](https://saschamajewsky.de) · [👔 LinkedIn](https://linkedin.com/in/saschamajewsky) · [💼 XING](https://www.xing.com/profile/Sascha_Majewsky5) 📍 [Hamburg](https://maps.app.goo.gl/ru3u4KaYfN95Jz7g6)
