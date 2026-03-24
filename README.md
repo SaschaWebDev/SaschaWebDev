@@ -20,6 +20,9 @@
 - 🔒 **[YapGone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
 - ⚡ **[FlashRepeat](https://flashrepeat.com)** - intelligent flashcards with spaced repetition - done right
 - 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes — group, drag, done
+- **LiftTrace** -
+- **PlantClock** -
+- **ChopWeek** -
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 ## 📫 Contact Me
