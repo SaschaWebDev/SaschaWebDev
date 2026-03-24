@@ -15,11 +15,11 @@
 
 ## 🚀 Current Projects
 
-- ✂️ **[StreamDeckGIF](https://streamdeckgif.com)** - Your Stream Deck deserves a beautiful animated wallpaper
-- 🕊️ **[NoteFade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
-- 🔒 **[YapGone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
-- ⚡ **[FlashRepeat](https://flashrepeat.com)** - intelligent flashcards with spaced repetition - done right
-- 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes — group, drag, done
+- ✂️ **[StreamDeckGIF](https://streamdeckgif.com)** [(repo)](https://github.com/SaschaWebDev/stream-deck-gif-splitter) - Your Stream Deck deserves a beautiful animated wallpaper
+- 🕊️ **[NoteFade](https://notefade.com)** [(repo)](https://github.com/SaschaWebDev/notefade) - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
+- 🔒 **[YapGone](https://yapgone.com)** [(repo)](https://github.com/SaschaWebDev/yapgone) - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
+- ⚡ **[FlashRepeat](https://flashrepeat.com)** [(repo)](https://github.com/SaschaWebDev/flashrepeat) - intelligent flashcards with spaced repetition - done right
+- 🛫 **[LaneFly](https://lanefly.com)** [(repo)](https://github.com/SaschaWebDev/lanefly) - Beautiful kanban boards with swim lanes — group, drag, done
 - **LiftTrace** -
 - **PlantClock** -
 - **ChopWeek** -
