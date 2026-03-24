@@ -19,7 +19,7 @@
 - 🕊️ **[NoteFade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
 - 🔒 **[YapGone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
 - ⚡ **[FlashRepeat](https://flashrepeat.com)** - intelligent flashcards with spaced repetition - done right
-- 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes — group, drag, done
+- 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes - group, drag, done
 - **LiftTrace** -
 - **PlantClock** -
 - **ChopWeek** -
