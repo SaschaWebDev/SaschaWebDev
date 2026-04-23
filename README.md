@@ -35,6 +35,8 @@
 - 🔎 **[Steganography Showcase](https://steganography-leuphana.netlify.app/)** A university project where I created a video that explains steganography and a website that showcases its usage
 - 💸 **[Exchange Rate Converter](https://exchange.saschamajewsky.de)** Find exchange rate between different currencies
 - 💳 **[HVV Prepaid Card Mockup](https://hvv.saschamajewsky.de)** A quite old prototype project for a local transport company to test out css gradients and animations
+- 🧰 **[Startup WSL VcXsrv](https://github.com/SaschaWebDev/startup_WSL_VcXsrv)** A python script to automate starting up the GUI of linux programs within WSL
+- 🏓 **[Dynv6 Windows Client](https://github.com/SaschaWebDev/dynv6-windows-updater)** A dynamic DNS client (Node.js) for Windows compatible with Dynv6.com
 
 ## 📫 Contact Me
 
