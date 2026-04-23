@@ -28,6 +28,13 @@
 - **ChopWeek** -
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
+
+## ⌛ Old Projects
+- 🏷️ **[Percentage Calculator](https://percent.saschamajewsky.de)**
+- 🔐 **[Password Generator](https://password.saschamajewsky.de)** A password generator
+- 💸 **[Exchange Rate Converter](https://exchange.saschamajewsky.de)** A exchange rate converter for different currencies
+- 
+
 ## 📫 Contact Me
 
 ##### [🌐 saschamajewsky.de](https://saschamajewsky.de) · [👔 LinkedIn](https://linkedin.com/in/saschamajewsky) · [💼 XING](https://www.xing.com/profile/Sascha_Majewsky5) 📍 [Hamburg](https://maps.app.goo.gl/ru3u4KaYfN95Jz7g6)
