@@ -32,6 +32,7 @@
 ## ⌛ Old Projects
 - 🏷️ **[Percentage Calculator](https://percent.saschamajewsky.de)** Conveniently work with percentages
 - 🔐 **[Password Generator](https://password.saschamajewsky.de)** Generate more secure passwords with ease
+- 🔎 **[Steganography Showcase](https://steganography-leuphana.netlify.app/)** A university project where I created a video that explains steganography and a website that showcases its usage
 - 💸 **[Exchange Rate Converter](https://exchange.saschamajewsky.de)** Find exchange rate between different currencies
 - 💳 **[HVV Prepaid Card Mockup](https://hvv.saschamajewsky.de)** A quite old prototype project for a local transport company to test out css gradients and animations
 
