@@ -19,7 +19,7 @@
 - 🕊️ **[NoteFade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
 - 👻 **[YapGone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
 - 🐇 **[VoidHop](https://voidhop.com)** - The url shortener that can't read your links
-- 🥖 **[PicPetite](https://picpetite.com)** - Au revoir, megabytes. Petite images, grande quality — Privacy image compression that never sees your pictures
+- 🥖 **[PicPetite](https://picpetite.com)** - Au revoir, megabytes. Petite images, grande quality - Privacy image compression that never sees your pictures
 - ⚡ **[FlashRepeat](https://flashrepeat.com)** - Intelligent flashcards with spaced repetition - done right
 - 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes - group, drag, done
 
