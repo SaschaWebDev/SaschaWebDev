@@ -30,10 +30,9 @@
 
 
 ## ⌛ Old Projects
-- 🏷️ **[Percentage Calculator](https://percent.saschamajewsky.de)**
-- 🔐 **[Password Generator](https://password.saschamajewsky.de)** A password generator
-- 💸 **[Exchange Rate Converter](https://exchange.saschamajewsky.de)** A exchange rate converter for different currencies
-- 
+- 🏷️ **[Percentage Calculator](https://percent.saschamajewsky.de)** Conveniently work with percentages
+- 🔐 **[Password Generator](https://password.saschamajewsky.de)** Generate more secure passwords with ease
+- 💸 **[Exchange Rate Converter](https://exchange.saschamajewsky.de)** Find exchange rate between different currencies
 
 ## 📫 Contact Me
 
