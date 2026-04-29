@@ -15,13 +15,13 @@
 
 ## 🚀 Current Projects
 
-- ✨ **[StreamDeckGIF](https://streamdeckgif.com)** - Your Elgato Stream Deck deserves a beautiful animated wallpaper
-- 🕊️ **[NoteFade](https://notefade.com)** - Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
-- 👻 **[YapGone](https://yapgone.com)** - Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
-- 🐇 **[VoidHop](https://voidhop.com)** - The url shortener that can't read your links
-- 🥐 **[PicPetite](https://picpetite.com)** - Au revoir, megabytes. Petite images, grande quality - Private image compression your photos never leave the browser
-- ⚡ **[FlashRepeat](https://flashrepeat.com)** - Intelligent flashcards with spaced repetition - done right
-- 🛫 **[LaneFly](https://lanefly.com)** - Beautiful kanban boards with swim lanes - group, drag, done
+- ✨ **[StreamDeckGIF](https://streamdeckgif.com)** Your Elgato Stream Deck deserves a beautiful animated wallpaper
+- 🕊️ **[NoteFade](https://notefade.com)** Share secret notes that self-destruct - Zero-knowledge, one-time read, no content stored on servers
+- 👻 **[YapGone](https://yapgone.com)** Anonymous end-to-end encrypted chat with zero server knowledge and no message storage
+- 🐇 **[VoidHop](https://voidhop.com)** The url shortener that can't read your links
+- 🥐 **[PicPetite](https://picpetite.com)** Au revoir, megabytes. Petite images, grande quality - Private image compression your photos never leave the browser
+- ⚡ **[FlashRepeat](https://flashrepeat.com)** Intelligent flashcards with spaced repetition - done right
+- 🛫 **[LaneFly](https://lanefly.com)** Beautiful kanban boards with swim lanes - group, drag, done
 
 - **LiftTrace** -
 - **PlantClock** -
