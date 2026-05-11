@@ -26,6 +26,8 @@
 - **LiftTrace** -
 - **PlantClock** -
 - **ChopWeek** -
+- **Auramegle** - 
+- **RangeRadar** -
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 
