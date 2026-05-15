@@ -27,7 +27,7 @@
 - **PlantClock** -
 - **ChopWeek** -
 - **Auramegle** - 
-- **RangeRadar** -
+- **RangeRecord** -
 - 🍂 **Ambientify** - Mix relaxing sounds, ambient melodies, and soundscapes for meditation, sleep, and focus
 
 
